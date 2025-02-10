@@ -48,26 +48,26 @@ holamundo-pyside6
 1. Crea un entorno virtual con:
 
     ```bash
-    python -m venv venv
+    python -m venv venv (en el segundo venv puedes poner el nombre que quieras para tu entorno)
     ```
 
 2. Actívalo con:
 
     ```bash
-    .\venv\Scripts\activate
+    .\venv\Scripts\activate (sustituye venv con el nombre de tu entorno si has puesto otro)
     ```
 
 #### Linux
 1. Crea un entorno virtual con:
 
     ```bash
-    python3 -m venv venv
+    python3 -m venv venv (en el segundo venv puedes poner el nombre que quieras para tu entorno)
     ```
 
 2. Actívalo con:
 
     ```bash
-    source venv/bin/activate
+    source venv/bin/activate (sustituye venv con el nombre de tu entorno si has puesto otro)
     ```
 
 ### 4. Instalación de Dependencias
