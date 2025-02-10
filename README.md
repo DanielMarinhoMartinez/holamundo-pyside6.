@@ -8,8 +8,7 @@ holamundo-pyside6
 
 #### Windows
 1. Descarga el instalador de Python 3 desde [python.org](https://www.python.org/downloads/).
-2. Ejecuta el instalador y **marca la opción "Add Python to PATH"** antes de continuar con la instalación.
-3. Verifica la instalación abriendo la terminal (cmd) y escribiendo:
+2. Verifica la instalación abriendo la terminal (cmd) y escribiendo:
 
     ```bash
     python --version
